@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/SITIENEIKIBET/SITIENEI_PORTFOLIO.git/static/css/main.51242e9e.css",
-    "main.js": "/SITIENEIKIBET/SITIENEI_PORTFOLIO.git/static/js/main.9fd67097.js",
-    "static/media/Emma.png": "/SITIENEIKIBET/SITIENEI_PORTFOLIO.git/static/media/Emma.23d0eb359439b0b2efd7.png",
-    "static/media/Procurement.png": "/SITIENEIKIBET/SITIENEI_PORTFOLIO.git/static/media/Procurement.cfdd7f69e24a56543a0c.png",
-    "static/media/Warehouse.png": "/SITIENEIKIBET/SITIENEI_PORTFOLIO.git/static/media/Warehouse.ff65923204238f2b0014.png",
-    "static/media/HR_Analytics.png": "/SITIENEIKIBET/SITIENEI_PORTFOLIO.git/static/media/HR_Analytics.a716806bbc8d4bd8752f.png",
-    "static/media/Social_Media.png": "/SITIENEIKIBET/SITIENEI_PORTFOLIO.git/static/media/Social_Media.610032185c9b0a69f42e.png",
-    "static/media/Customer_Analysis.png": "/SITIENEIKIBET/SITIENEI_PORTFOLIO.git/static/media/Customer_Analysis.45fa25c37f4aec131192.png",
-    "static/media/Mall_Customer.png": "/SITIENEIKIBET/SITIENEI_PORTFOLIO.git/static/media/Mall_Customer.94c30f75a5911423380c.png",
-    "static/media/CV_Emmanuel_Sitienei2.pdf": "/SITIENEIKIBET/SITIENEI_PORTFOLIO.git/static/media/CV_Emmanuel_Sitienei2.77ea3b65d2ac0bba5a3e.pdf",
-    "index.html": "/SITIENEIKIBET/SITIENEI_PORTFOLIO.git/index.html",
-    "main.51242e9e.css.map": "/SITIENEIKIBET/SITIENEI_PORTFOLIO.git/static/css/main.51242e9e.css.map",
-    "main.9fd67097.js.map": "/SITIENEIKIBET/SITIENEI_PORTFOLIO.git/static/js/main.9fd67097.js.map"
+    "main.css": "/SITIENEIKIBET/SITIENEI_PORTFOLIO/static/css/main.51242e9e.css",
+    "main.js": "/SITIENEIKIBET/SITIENEI_PORTFOLIO/static/js/main.0fe7699b.js",
+    "static/media/Emma.png": "/SITIENEIKIBET/SITIENEI_PORTFOLIO/static/media/Emma.23d0eb359439b0b2efd7.png",
+    "static/media/Procurement.png": "/SITIENEIKIBET/SITIENEI_PORTFOLIO/static/media/Procurement.cfdd7f69e24a56543a0c.png",
+    "static/media/Warehouse.png": "/SITIENEIKIBET/SITIENEI_PORTFOLIO/static/media/Warehouse.ff65923204238f2b0014.png",
+    "static/media/HR_Analytics.png": "/SITIENEIKIBET/SITIENEI_PORTFOLIO/static/media/HR_Analytics.a716806bbc8d4bd8752f.png",
+    "static/media/Social_Media.png": "/SITIENEIKIBET/SITIENEI_PORTFOLIO/static/media/Social_Media.610032185c9b0a69f42e.png",
+    "static/media/Customer_Analysis.png": "/SITIENEIKIBET/SITIENEI_PORTFOLIO/static/media/Customer_Analysis.45fa25c37f4aec131192.png",
+    "static/media/Mall_Customer.png": "/SITIENEIKIBET/SITIENEI_PORTFOLIO/static/media/Mall_Customer.94c30f75a5911423380c.png",
+    "static/media/CV_Emmanuel_Sitienei2.pdf": "/SITIENEIKIBET/SITIENEI_PORTFOLIO/static/media/CV_Emmanuel_Sitienei2.77ea3b65d2ac0bba5a3e.pdf",
+    "index.html": "/SITIENEIKIBET/SITIENEI_PORTFOLIO/index.html",
+    "main.51242e9e.css.map": "/SITIENEIKIBET/SITIENEI_PORTFOLIO/static/css/main.51242e9e.css.map",
+    "main.0fe7699b.js.map": "/SITIENEIKIBET/SITIENEI_PORTFOLIO/static/js/main.0fe7699b.js.map"
   },
   "entrypoints": [
     "static/css/main.51242e9e.css",
-    "static/js/main.9fd67097.js"
+    "static/js/main.0fe7699b.js"
   ]
 }
